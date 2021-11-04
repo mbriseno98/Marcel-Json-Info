@@ -1,0 +1,25 @@
+  {
+	"firstName":"Marcel",
+	"lastName":"Briseno",
+	"preferredName":"Marcel",
+	"email":"marcelgbriseno@lewisu.edu",
+	"phoneNumber":"708-305-7513",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"19",
+	"inPerson":[
+		"Monday",
+		"Wednesday"
+	],
+	"virtual":[
+		"Friday"
+	],
+	"city":"Orland Park",
+    "pets": "Two Cats",
+	"state":"IL",
+	"zip":"60462",
+	"lat":"41.6303",
+	"lng":"- 87.8539",
+	"favoriteHobby":"Video Games"
+}

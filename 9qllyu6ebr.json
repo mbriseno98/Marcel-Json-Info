@@ -1,0 +1,27 @@
+{
+	"firstName":"Luke",
+	"lastName":"Skywalker",
+	"preferredName":"Master Luke",
+	"email":"TheNewHope@therebelalliance.com",
+	"phoneNumber":"800-552-0718",
+    "Planet":"Tatooine",
+	"Galaxy":"Outer Rim Territories",
+    "Sector" :"Arkanis",
+	"City":"Lars Farm Near Mos Eisley",
+	"zip":"32830",
+	"galacticLat":"296",
+	"galacticLng":"-248",
+	"favoriteHobby":"Training Padawans",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"",
+	"inPerson":[
+	],
+	"virtual":[
+		"Monday",
+		"Wednesday",
+		"Friday"
+	],
+	"favoriteActivity": "Milking Bantha"
+}

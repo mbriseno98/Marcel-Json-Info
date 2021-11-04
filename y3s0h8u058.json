@@ -1,0 +1,26 @@
+  {
+    "firstName":"Logan",
+	"lastName":"Howlett",
+	"preferredName":"Wolverine",
+	"email":"DaWolverine@lewisu.edu",
+	"phoneNumber":"800-mutant-wolf",
+	"city":"Cold Lake",
+	"province":"Alberta",
+    "country": "Canada",
+	"zip":"07101",
+	"lat":"53.9333",
+	"lng":"-116.5765",
+	"favoriteHobby":"Saving Mutants",
+    "Organization": "X Men",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"12",
+	"inPerson":[
+	],
+	"virtual":[
+		"Monday",
+		"Wednesday",
+		"Friday"
+	]
+}
